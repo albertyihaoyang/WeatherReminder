@@ -6,4 +6,4 @@
 - Excised MVC concept in the Django framework.
 - Implemented user registration, email confirmation and login feature.
 
-![Link](http://54.186.116.58/)
+![Link](54.186.116.58/)
